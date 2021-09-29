@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-void functSearch(int*arr,int size)
+void functSort(int*arr,int size)
 {
 	for (int i = 0; i < size; i++)
 	{
